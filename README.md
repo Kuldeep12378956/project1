@@ -40,6 +40,9 @@ Below are some flow of the work we did for them.
 ![diagram drawio](https://github.com/Kuldeep12378956/project1/assets/154441092/3591ef8c-ba35-4d1d-a598-b7fce9f647c9)
 
 
+### Automating Ticket Creation on Clickup fir every new inspector finding notification. 
+
+![Task Automation](https://github.com/Kuldeep12378956/project1/assets/154441092/d3ca2416-5f75-4403-9661-5c8c67f68ecf)
 
 
 
